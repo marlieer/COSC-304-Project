@@ -7,6 +7,7 @@ import java.util.Scanner;
 /**
  * Loads the order database using code.
  */
+// useless comment for sake of commit practice
 public class LoadData
 {
 	public static void main(String[] argv) throws Exception
