@@ -1,5 +1,6 @@
 # COSC-304-Project
-Hello everybody! I just figured out github pretty good! So I've created a branch for all of you, and here's what you're going to do with it... (also, the preview of this text doesn't include the tabs and linefeeds, so it'll look pretty clumped until you open it)
+
+    Hello everybody! I just figured out github pretty good! So I've created a branch for all of you, and here's what you're going to do with it... (also, the preview of this text doesn't include the tabs and linefeeds, so it'll look pretty clumped until you open it)
     1.) clone the URI and using Eclipse, import the project into Eclipse
     2.) there is a branch available for each of you. It's your first name all lower case
     3.) when you make changes to the code, commit AND PUSH them to YOUR branch ONLY! Not anyone else's branch and NOT the master branch
