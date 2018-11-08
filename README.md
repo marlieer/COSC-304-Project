@@ -1,2 +1,3 @@
 # COSC-304-Project
-Marlie - steps for commit and push from eclipse
+Hello everybody! I just figured out github pretty good! So I've created a branch for all of you, and here's what you're going to do with it...
+1.) clone the URI and using Eclipse, import the project into Eclipse
