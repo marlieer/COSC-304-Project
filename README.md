@@ -11,6 +11,7 @@
     To view this, go to the header "Pull requests" and you should be able to see what I've pushed through my branch. 
     You'll be able to merge my changes into the master branch. Merging to the master isn't really undo-able. 
     I think there's a way, but it's messy. 
-    Approve my pull request (ie merge my changes with the master) by viewing my changes and 
+    Approve my pull request (ie merge my changes with the master) by viewing my changes and clicking the green "Review Changes" box.
+    Then just approve (or not!) my pull request. We all do this for each other.
     
     The key is to ONLY work via your own branch, and NEVER work on a class someone else is working on. Keep to your own tasks.
