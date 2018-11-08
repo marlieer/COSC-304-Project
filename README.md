@@ -10,6 +10,7 @@
     For example, I've pushed 2 commits. One with a simple comment, and one where I've created a DinoCo project folder with different packages. 
     To view this, go to the header "Pull requests" and you should be able to see what I've pushed through my branch. 
     You'll be able to merge my changes into the master branch. Merging to the master isn't really undo-able. 
-    I think there's a way, but it's messy.
+    I think there's a way, but it's messy. 
+    Approve my pull request (ie merge my changes with the master) by viewing my changes and 
     
     The key is to ONLY work via your own branch, and NEVER work on a class someone else is working on. Keep to your own tasks.
